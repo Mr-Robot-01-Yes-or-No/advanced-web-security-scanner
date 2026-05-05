@@ -1,0 +1,8 @@
+[
+    {
+        "url": "http://testphp.vulnweb.com",
+        "xss": false,
+        "sqli": false,
+        "header_issues": []
+    }
+]
